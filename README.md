@@ -12,6 +12,7 @@ Download the folder bytcr-rt5651
     sudo cp asound.state /var/lib/alsa
 
     Restart
+    sudo reboot
     
     Connect headphones and test sound via below command :
     speaker-test -t wav -c 6
