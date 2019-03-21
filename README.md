@@ -1,6 +1,6 @@
 # rdp_thinbook
 
-Heaphones working -
+Headphones working -
 
 
 Download the folder bytcr-rt5651
